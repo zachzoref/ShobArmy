@@ -1,0 +1,67 @@
+/*.tablesorter .filtered {
+    display: none;
+}
+
+
+.tablesorter .tablesorter-errorRow td {
+    text-align: center;
+    cursor: pointer;
+    background-color: #e6bf99;
+}*/
+
+header h1 {
+    color: #232323;
+    font-size: 1.25rem;
+    font-weight: normal;
+    letter-spacing: 0.3125rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+header p {
+    max-width: 600px;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto 3rem auto;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.centerize {
+    display: table;
+    margin: auto;
+}
+
+.middletext {
+    text-align: left;
+    display: inline-block;
+    margin: 0px auto;
+}
+
+.shobTable {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -o-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -ms-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+
+#journalTable{
+    text-align: center;
+}
+
+#journalTableThead {
+    text-align: center;
+    background-color: white;
+}
+
+#journalTable tr td:hover {
+    background: #dee1e4;
+}
